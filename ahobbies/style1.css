@@ -1,0 +1,84 @@
+body {
+  background-image: url("images/leaf.jpg");
+  background-repeat: no-repeat;background-size: cover;
+}
+
+header {
+  color: navy;
+  font-size: 60px;
+  text-align: center;
+}
+
+button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%
+}
+
+div {
+   border: 3px dashed navy;
+   background-color: lightblue;
+   padding-top: 50px;
+   padding-bottom: 50px;
+   padding-left: 50px;
+   padding-right: 300px;
+   margin-top: 100px;
+   margin-bottom: 100px;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+details {
+  border-style: double;
+}
+
+summary {
+  text-decoration-line: underline;
+  text-decoration-color: red;
+}
+
+img {
+  border-radius: 30px;
+  padding: 10px;
+}
+
+a:link {
+  background-color: green;
+}
+a:hover {
+  background-color: yellow;
+}
+
+footer {
+   text-align: right;
+}
+
+#hobby1 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+#hobby2 {
+  width: 600px;
+  margin: auto;
+  border: 6px solid red;
+}
+
+#hobby3 {
+	background-image: url("images/musicnote.png ");
+}

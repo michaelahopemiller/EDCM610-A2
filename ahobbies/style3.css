@@ -1,0 +1,61 @@
+body {
+	background-image: url("images/lavender.jpg");
+}
+
+header {
+	font-size: 40px; color:#ff0066; text-align:center;
+}
+
+button {
+	font-size: 20px; padding: 20px; 
+	background-color: #cc66ff;margin-left: 600px; 
+	color:#ff0066; text-align:center;class:w3-round-large;
+}
+
+div {
+  border: 6px solid yellow;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 300px;
+  margin-left: 300px;
+  text-align:center;
+}
+
+h1 {
+	color: purple;
+}
+
+details {
+	color: black
+}
+
+summary {
+	color: white;
+}
+
+img {
+  border: 5px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px
+}
+
+a {
+   color: navy;
+}
+
+footer {
+	border: 6px solid purple;color:hotpink; text-align:center;
+}
+
+#hobby1 {
+	border-style: dashed; background-color: lightblue;
+}
+
+#hobby2 {
+	border-style: dotted; background-color: #ccccff;
+}
+
+#hobby3 {
+	border-style: dashed; background-color: #9933ff;
+}
